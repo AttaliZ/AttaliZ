@@ -1,7 +1,6 @@
 <h1 align="center">I'm Korkrit!</h1>
 
-
----
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxdTF0ZG4xZHVzOTU0cmE3ZmU5eGxnYmZmYml5cWNpbTZnenR4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDpzvizNCLB3LO0Hb/giphy.gif" width="450" height="250" alt="gif"/></p>
 
 ## 👨‍💻 About Me
 
