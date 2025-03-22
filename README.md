@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxdTF0ZG4xZHVzOTU0cmE3ZmU5eGxnYmZmYml5cWNpbTZnenR4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDpzvizNCLB3LO0Hb/giphy.gif" width="450" height="250" alt="gif"/></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AttaliZ&color=orange&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AttaliZ&color=blue&style=flat-square)
 
 ## 👨‍💻 About Me
 
