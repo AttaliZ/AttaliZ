@@ -11,7 +11,7 @@ Web Devloper
 Currently studying KASETSART UNIVERSITY
 
 * ✉️  You can contact me at [korkrit.p@gmail.com](mailto:korkrit.p@gmail.com)
-* 🧠  I'm learning REACT / Mongodb
+* 🧠  I'm learning Agentic Ai / GCP
 
 ### Skills
 
